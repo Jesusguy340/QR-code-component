@@ -1,5 +1,5 @@
 .title {
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
     text-align: center;
 }
@@ -9,6 +9,7 @@ img {
     margin-top: 30px;
     width: 400px;
     margin-bottom: 0px;
+    border-radius: 25px;
 }
 body {
     background-color: lightblue;
@@ -16,13 +17,15 @@ body {
 
 .box {
     background-color: white;
-height: 610px;
+height: 550px;
 width: 500px;
 margin-left: 450px;
 margin-top: 30px;
+border-radius: 25px;
 
 }
 .p {
-    color: gray;
+    color: hsl(218, 44%, 22%);
     text-align: center;
+    font-size: 15px;
 }
